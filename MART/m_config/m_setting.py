@@ -16,5 +16,5 @@ configuration information
 """
 the configuration of the db link
 """
-var_account_info = r"C:\Users\Administrator\PycharmProjects\s12\day5\mart_account_info.txt"
-var_commodity_info = r"C:\Users\Administrator\PycharmProjects\s12\day5\commodity_list.txt"
+var_account_info = r"F:\PycharmProjects\GitHub\BANK_MART\mart_account_info.txt"
+var_commodity_info = r"F:\PycharmProjects\GitHub\BANK_MART\commodity_list.txt"
